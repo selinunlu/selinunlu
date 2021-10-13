@@ -1,16 +1,8 @@
-<h1 align="center">Hi 👋, I'm Selin</h1>
-<h3 align="center">I'm currently a student at Patika.dev's Data Science and Analytics Bootcamp.</h3>
+<h1 align="center">Hi 👋, I'm Selin!</h1>
+<p align="left"> I was graduated from GTU Electronics Engineering. I'm currently a student at Patika.dev's Data Science and Analytics Bootcamp.</h3>
 
-- 🔭 I’m currently working **on Python**
+<p align="left"> 👀 I’m interested in data science and machine learning models.
+<p align="left"> 🌱 I’m currently learning Python.
 
-- 🌱 I’m currently learning **about Data Science and Analysis**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/selin-unlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selin-unlu" height="30" width="40" /></a>
-<a href="https://kaggle.com/selinunlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="selinunlu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/selinunlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="selinunlu" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selin-unlu/)
+[![Mail Badge](https://img.shields.io/badge/slinunlu@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:slinunlu@gmail.com)](mailto:slinunlu@gmail.com)
