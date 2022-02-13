@@ -5,11 +5,23 @@
 <p align="left"> 👀 I’m interested in data science and machine learning models.
 <p align="left"> 🌱 I’m currently learning data science and analytics, python.
   
-  
-  
-  
-### Libraries
-
+#### Programming Languages
+<p> 
+    <a>
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    </a>
+    <a>
+    <img alt="C" src="https://img.shields.io/badge/C%20-%2314354C.svg?logo=C&logoColor=white">
+    </a>
+    <a>
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2314354C.svg?logo=Cplusplus&logoColor=white">
+    </a>
+    <a>      
+    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB%20-%2314354C.svg?logo=matlab&logoColor=white">
+    </a>
+    <a>           
+      
+#### Libraries
 <p>
     <a>
     <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-%23013243.svg?logo=NumPy&logoColor=white">
