@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Selin!</h1>
+<h1 align="center">Hi 👋🏻, I'm Selin!</h1>
 
 <p align="left"> I was graduated from GTU Electronics Engineering. I attended Patika.dev's Data Science and Analytics Bootcamp.</h3>
 
