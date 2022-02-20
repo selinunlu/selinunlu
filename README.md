@@ -49,6 +49,6 @@
 [![Mail Badge](https://img.shields.io/badge/slinunlu@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:slinunlu@gmail.com)](mailto:slinunlu@gmail.com)
       
 <div align="center">
-<img width="100%" height="800px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201204213645/Data-Science-Roadmap.png" />
+<img width="100%" height="600px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201204213645/Data-Science-Roadmap.png" />
 </div>
 <br>
