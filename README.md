@@ -47,3 +47,8 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selin-unlu/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@selinunlu)
 [![Mail Badge](https://img.shields.io/badge/slinunlu@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:slinunlu@gmail.com)](mailto:slinunlu@gmail.com)
+      
+<div align="center">
+<img width="70%" height="400px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201204213645/Data-Science-Roadmap.png" />
+</div>
+<br>
